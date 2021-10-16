@@ -1,0 +1,16 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "my twit bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "twit": "^2.2.11"
+  }
+}
